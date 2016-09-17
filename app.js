@@ -1,4 +1,4 @@
 var lib = require("./lib");
 
-lib.set("bappi");
+lib.set();
 console.log(lib.get());
